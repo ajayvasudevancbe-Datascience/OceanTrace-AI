@@ -1,5 +1,5 @@
 # OceanTrace-AI
-### **OceanTrace AI – Project Explanation**
+
 
 This project presents a Deep Learning and Generative AI approach for analyzing underwater images to support marine pollution awareness. The main objective is to identify image content, generate descriptions, and provide preliminary information about possible marine pollution.
 
